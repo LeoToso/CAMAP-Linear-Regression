@@ -1,9 +1,8 @@
-# Bayesian Multi-task Learning
+# Bayesian Priors for Multi-task Learning
 
-This repository includes the Python codes to implement the experimental results of the following project
+This repository includes the Python codes to implement the experimental results of the following report
 
-1) Meta-Learning Low-rank, and Sparse Representations from Multi-task, 
-Non-IID, and Non-Isotropic Data for Estimation and Control: A Bayesian Coordinate-Ascent MAP Approach
+1)  Bayesian Priors for Linear Operator Recovery and Online Control
 
 ## Instructions
 
